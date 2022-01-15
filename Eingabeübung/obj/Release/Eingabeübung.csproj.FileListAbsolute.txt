@@ -1,0 +1,8 @@
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\bin\Release\Eingabeübung.exe.config
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\bin\Release\Eingabeübung.exe
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\bin\Release\Eingabeübung.pdb
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\obj\Release\Eingabeübung.Form1.resources
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\obj\Release\Eingabeübung.Properties.Resources.resources
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\obj\Release\Eingabeübung.csproj.GenerateResource.Cache
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\obj\Release\Eingabeübung.exe
+C:\Users\PhilippDesk\documents\visual studio 2012\Projects\Eingabeübung\Eingabeübung\obj\Release\Eingabeübung.pdb
